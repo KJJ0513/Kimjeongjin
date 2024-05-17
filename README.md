@@ -2,10 +2,10 @@
 마음에 드는 데모 페이지를 고르고, github 페이지로 만들어보세요 :)
 
 ## 데모 페이지 확인
-- [DevFoilo](https://kjj0513.github.io/portfolio-collection/devfolio-master/)
-- [noah-master](https://kjj0513.github.io/portfolio-collection/noah-master/)
-- [resume-2](https://kjj0513.github.io/portfolio-collection/resume-2-master/)
-- [ronin-gh-pages](https://kjj0513.github.io/portfolio-collection/ronin-gh-pages/)
+- [DevFoilo](https://kjj0513.github.io/Kimjeongjin/devfolio-master/)
+- [noah-master](https://kjj0513.github.io/Kimjeongjin/noah-master/)
+- [resume-2](https://kjj0513.github.io/Kimjeongjin/resume-2-master/)
+- [ronin-gh-pages](https://kjj0513.github.io/Kimjeongjin/ronin-gh-pages/)
 
 ## 가이드 문서
 
